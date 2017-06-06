@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-webpack-typescript-seed",
+  "version": "1.0.0",
+  "description": "NodeJS Wbpack TypeScript Seed",
+  "main": "build/apps.js",
+  "scripts": {
+    "start": "webpack --config webpack/webpack.js --watch",
+    "postinstall": "typings i"
+  },
+  "author": "Martin Köhn (martin.koehn@googlemail.com)",
+  "license": "MIT",
+  "dependencies": {
+    "json-loader": "0.5.4",
+    "ts-loader": "2.1.0",
+    "typescript": "^2.1.5",
+    "typings": "^2.1.1",
+    "webpack": "2.6.1"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  }
+}
