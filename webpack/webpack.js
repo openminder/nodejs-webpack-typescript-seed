@@ -1,4 +1,4 @@
-const loaders = require("./loaders");
+const loaders = require('./loaders');
 const common = require('./common');
 const path = require('path');
 const fs = require('fs');

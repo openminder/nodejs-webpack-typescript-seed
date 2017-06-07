@@ -9,14 +9,14 @@
   },
   "author": "Martin Köhn (martin.koehn@googlemail.com)",
   "license": "MIT",
-  "dependencies": {
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "devDependencies": {
     "json-loader": "0.5.4",
     "ts-loader": "2.1.0",
     "typescript": "^2.1.5",
     "typings": "^2.1.1",
     "webpack": "2.6.1"
-  },
-  "engines": {
-    "node": ">=6.0.0"
   }
 }

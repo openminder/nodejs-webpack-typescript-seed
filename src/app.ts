@@ -1,5 +1,5 @@
-import SampleClass from './services/SampleClass.class';
+import SampleService from './services/sample.service';
 
-console.log('START');
+const sampleService = new SampleService();
 
-let sampleClass = new SampleClass();
+console.log('App started');
