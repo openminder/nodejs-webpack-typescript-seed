@@ -13,7 +13,7 @@ module.exports = {
     resolve: common.resolve,
     target: "node",
     resolveLoader: {
-        modulesDirectories: ["node_modules"]
+        modules: ["node_modules"]
     },
     module:{
         loaders: loaders
