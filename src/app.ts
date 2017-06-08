@@ -11,4 +11,4 @@ app.use( (ctx) => {
 });
 
 app.listen(conf.port);
-console.log('App started');
+console.log(`App started at http://localhost:${conf.port}`);
