@@ -1,4 +1,4 @@
-# nodejs | webpack | typescript
+# koa | nodejs | webpack | typescript
 
 This is a seed repository for nodejs development with webpack and typescript. The codestyle can be checked by tslint.
 
@@ -8,6 +8,9 @@ Install dependecies
 
 Start development mode with watcher
 * npm start
+
+Only Build Application
+* npm run build
 
 Execute applicatoin bundle
 * node build/app.js
