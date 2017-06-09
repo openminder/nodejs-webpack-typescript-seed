@@ -9,8 +9,11 @@ Install dependecies
 Start development mode with watcher
 * npm start
 
-Only Build Application
+Build Application
 * npm run build
+
+Run Mocha Tests
+* npm run test
 
 Execute applicatoin bundle
 * node build/app.js
