@@ -1,4 +1,4 @@
-# koa | nodejs | webpack | typescript
+# koa | nodejs | webpack | mocha | typescript
 
 This is a seed repository for nodejs development with webpack and typescript. The codestyle can be checked by tslint.
 
