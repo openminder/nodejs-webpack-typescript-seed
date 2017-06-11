@@ -1,4 +1,3 @@
-![Alt text](https://travis-ci.org/openminder/nodejs-webpack-typescript-seed.svg?branch=master)
 <img src="https://travis-ci.org/openminder/nodejs-webpack-typescript-seed.svg?branch=master">
 
 # koa | nodejs | webpack | mocha | typescript
